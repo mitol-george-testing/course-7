@@ -1,9 +1,19 @@
 {
+  "level": "",
   "instructors": {
     "content": [],
     "website": "course-7"
   },
+  "course_image": {
+    "content": "",
+    "website": null
+  },
+  "course_title": "course-7",
   "department_numbers": [
     "6"
-  ]
+  ],
+  "course_image_thumbnail": {
+    "content": "",
+    "website": null
+  }
 }
